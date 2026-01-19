@@ -7,6 +7,11 @@ This project is a **Java console-based Student Management System** developed usi
 ## 🔑 User Roles
 
 ### 👨‍💼 Admin
+-Add staff details
+ -View staff details
+ - Seardh staff details
+ - Sort staff details
+ - Delete staf details
 - Add student details
 - View student details
 - Search student
