@@ -11,7 +11,7 @@ This project is a **Java console-based Student Management System** developed usi
  -View staff details
  - Seardh staff details
  - Sort staff details
- - Delete staf details
+ - Delete staff details
 - Add student details
 - View student details
 - Search student
